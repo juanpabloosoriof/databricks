@@ -1,2 +1,2 @@
-# Capstone Project
-This files contain different scripts I used for a Project at EnhanceIT
+## Databricks 101
+Basic manipulations when starting with Databricks
